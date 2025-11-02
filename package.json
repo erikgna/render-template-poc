@@ -1,0 +1,30 @@
+{
+  "name": "render-template",
+  "version": "1.0.0",
+  "description": "https://github.com/diegopacheco/tech-resources/blob/master/react-resources.md#ooad-challenges---round-1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikgna/render-template-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikgna/render-template-poc/issues"
+  },
+  "homepage": "https://github.com/erikgna/render-template-poc#readme",
+  "devDependencies": {
+    "@types/node": "^24.6.2",
+    "@types/pdfkit": "^0.17.3",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "pdfkit": "^0.17.2"
+  }
+}
