@@ -1,4 +1,4 @@
-import { Template } from "../core/base/template.abstract";
+import { Template } from "../templats/template";
 import { TemplateData } from "./template";
 
 export interface IRenderer {

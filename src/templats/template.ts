@@ -1,5 +1,5 @@
-import { IRenderer } from "../../types/renderer";
-import { TemplateData } from "../../types/template";
+import { IRenderer } from "../types/renderer";
+import { TemplateData } from "../types/template";
 
 // Template abstract class
 // This class is responsible for rendering and validating templates

@@ -1,4 +1,4 @@
-import { Template } from "../../core/base/template.abstract";
+import { Template } from "../template";
 import { TemplateData } from "../../types/template";
 
 // Invoice template class

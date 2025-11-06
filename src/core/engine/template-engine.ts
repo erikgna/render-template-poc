@@ -1,6 +1,6 @@
 import { RendererFactory } from "../../services/renderer.service";
 import { TemplateData, RenderOptions } from "../../types/template";
-import { Template } from "../base/template.abstract";
+import { Template } from "../../templats/template";
 import * as fs from 'fs/promises';
 import * as path from 'path';
 
